@@ -25,7 +25,7 @@ A simple command-line Todo List application implemented in C++ demonstrating:
 
 | File               | Description                                      |
 |--------------------|-------------------------------------------------|
-| `main.cpp`          | Main program loop and user interface            |
+| `TodoListApp.cpp`   | Main program loop and user interface            |
 | `Task.h`            | Definition of `Task` struct                      |
 | `TaskManager.h/cpp` | Functions for task operations (add, delete, etc.) |
 | `Logger.h`          | Singleton Logger class with log levels and filtering |
